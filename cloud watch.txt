@@ -1,0 +1,5 @@
+cloud watch
+dynamo db
+lamba
+code commit
+pipelines
